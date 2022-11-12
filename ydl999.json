@@ -14,11 +14,11 @@ CCTV8,mitv://ns1.hellotvvod.com:9906/1ca4431295ce40ddb6f4aabb7abfcaea.ts
 CCTV9,mitv://ns1.hellotvvod.com:9906/fdcec601f12e4dd2b9c5fd50bc5e3769.ts
 CCTV10,mitv://ns1.hellotvvod.com:9906/3b1547d7259d4aa49b00df0c5647054b.ts
 CCTV11,mitv://ns1.hellotvvod.com:9906/0ebe88f36db54dc5a9f6f80af5973a63.ts
-CCTV12,mitv://ns1.hellotvvod.com:9906/676f2f3886304708b564fb82c987dd78.ts
-CCTV13,mitv://ns1.hellotvvod.com:9906/685c77d049474af0ad1fae1d665d4bb2.ts
-CCTV14,mitv://ns1.hellotvvod.com:9906/58bb6d880a9b443390c3731d70387daa.ts
-CCTV15,mitv://ns1.hellotvvod.com:9906/e9bab6d896f040a19db32dbb754fc0ee.ts
-CCTV16,mitv://ns1.hellotvvod.com:9906/af5565c248884b94ad5df9f113bea283.ts
+CCTV12,mitv://ns1.hellotvvod.com:9906/676f2f3886304708b564fb82c987dd78
+CCTV13,mitv://ns1.hellotvvod.com:9906/685c77d049474af0ad1fae1d665d4bb2
+CCTV14,mitv://ns1.hellotvvod.com:9906/58bb6d880a9b443390c3731d70387daa
+CCTV15,mitv://ns1.hellotvvod.com:9906/e9bab6d896f040a19db32dbb754fc0ee
+CCTV16,mitv://ns1.hellotvvod.com:9906/af5565c248884b94ad5df9f113bea283
 大陆省市,#genre#
 北京卫视,mitv://ns1.hellotvvod.com:9906/c00c2e50037241aaa2617708d128d692.ts
 天津卫视,mitv://ns1.hellotvvod.com:9906/bd257cf66cae4a36921c0be99b0813f5.ts
@@ -53,7 +53,7 @@ CCTV16,mitv://ns1.hellotvvod.com:9906/af5565c248884b94ad5df9f113bea283.ts
 翡翠台,mitv://ns1.hellotvvod.com:9906/18dfc80582804f8cb7bf3e2f84806661.ts
 明珠台,mitv://ns1.hellotvvod.com:9906/544834bc35a044f38fa2719ededb18c2.ts
 TVB经典台,mitv://ns1.hellotvvod.com:9906/4d3af783d5ab4bb8b4cf778fcb6d3bec.ts
-TVB星河(粤),mitv://ns1.hellotvvod.com:9906/a2faaea49e0f4329a1afd0cfbbd8d5e5.ts
+TVB星河(粤),mitv://ns1.hellotvvod.com:9906/a2faaea49e0f4329a1afd0cfbbd8d5e5
 TVB娱乐新闻台,mitv://ns1.hellotvvod.com:9906/f4b174d3672c4b9286a532f249ee264a.ts
 J2,mitv://ns1.hellotvvod.com:9906/8735bcb3608940dba3b4065d11da9dfa.ts
 无线财经,mitv://ns1.hellotvvod.com:9906/ebcafb562b154de3ab98703eff8084d8.ts
