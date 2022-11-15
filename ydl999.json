@@ -1,15 +1,7 @@
 1115更新,#genre#
 支持机哥,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/zby/main/jgfx.mp4
 福利长久,https://ghproxy.com/https://raw.githubusercontent.com/jigedos/zby/main/jgfx.mp4
-翡翠台-[1920x1080],http://113.64.147.102:808/hls/67/index.m3u8
-翡翠台-[1920x1080],http://113.64.147.113:808/hls/67/index.m3u8
-翡翠台-[1920x1080],http://113.64.147.133:808/hls/67/index.m3u8
-翡翠台-[1920x1080],http://113.64.147.137:808/hls/67/index.m3u8
-翡翠台-[1920x1080],http://113.64.147.146:808/hls/67/index.m3u8
-翡翠台-[1920x1080],http://113.64.147.160:808/hls/67/index.m3u8
-翡翠台-[1920x1080],http://113.64.147.193:808/hls/67/index.m3u8
-翡翠台-[1920x1080],http://113.64.147.194:808/hls/67/index.m3u8
-翡翠台-[1920x1080],http://113.64.147.223:808/hls/67/index.m3u8
+
 
 
 大陆央视,#genre#
@@ -698,13 +690,14 @@ HAPPY,P2p://ns1.hellotvvod.com:9906/9f5e5c5c869842698e7ea7296ccac87d
 
 
 
-N/N list:,,#genre#
-python Reponse,
+N/N list:,#genre#
+
 auto cannry:jgfx,
+python Reponse:,
 project-out:ok,
 11.15.03:48,
-total:963
-success:788
+total:963,
+success:788,
 no name:52,
 八度空间,P2p://ns1.hellotvvod.com:9906/0b0536d9366f4134b070209e8e3af5d9
 Astro AEC(备),P2p://ns1.hellotvvod.com:9906/0e7ac8e1804e425f927d90a62a37eb1b
