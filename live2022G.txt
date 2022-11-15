@@ -1188,6 +1188,13 @@ Liz陪看,http://epg.112114.xyz/douyu/7254536
 邯郸科技教育,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
 邯郸科技教育,http://live.hd.hdbs.cn/video/s10001-2021hdkjjy/index.m3u8?zhebd
 
+疯狂动物城+,#genre#
+第01集,http://xn--cdun98c.tk:86/api/v3/file/get/545/%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E+%20%E7%AC%AC01%E9%9B%86.mp4?sign=3Ayz13dtNW7S4BP7Uf2RdSKHEvRglQCk5shVGEhlmM8%3D%3A0
+第02集,http://xn--cdun98c.tk:86/api/v3/file/get/546/%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E+%20%E7%AC%AC02%E9%9B%86.mp4?sign=QHkv9tBwcJWVNs8A8LLsj5DUx9DUj2WJNuQxlc8OZ-Q%3D%3A0
+第03集,http://xn--cdun98c.tk:86/api/v3/file/get/547/%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E+%20%E7%AC%AC04%E9%9B%86.mp4?sign=QvHmNwj2-ILbc6Ex6AQEMuyLRaPybxpy1TOx50Ckx4U%3D%3A0
+第04集,http://xn--cdun98c.tk:86/api/v3/file/get/548/%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E+%20%E7%AC%AC03%E9%9B%86.mp4?sign=0XDe2PylLVhVSoHql5zWbgAZBAKOb4oYWXR-ROZg1oY%3D%3A0
+第05集,http://xn--cdun98c.tk:86/api/v3/file/get/549/%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E+%20%E7%AC%AC05%E9%9B%86.mp4?sign=JLIXBKiN-YObc74XuL3JFks2y9ilyejxuckSWdItrbQ%3D%3A0
+第06集,http://xn--cdun98c.tk:86/api/v3/file/get/550/%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E+%20%E7%AC%AC06%E9%9B%86.mp4?sign=aj5OcBIxKTcwRjOQoKicR_hIoFtRQihbAF7tbybOhAg%3D%3A0
 
 
 
