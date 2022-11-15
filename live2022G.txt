@@ -1926,7 +1926,27 @@ DJ热歌,https://vdse.bdstatic.com//8258cbe0dfd6738613fe9efd33a7a83f.mp4
 陈真 19集,https://50069.njc.svp.tencent-cloud.com/0bf2feaicaaamuaaf7bl7zpvakodqeuqbaia.f10002.mp4
 陈真 20集,https://50069.njc.svp.tencent-cloud.com/0b78geaaeaaajmajs3jlqnpvamodaiyqaaqa.f10002.mp4
 
-
+80s港剧3,#genre#
+奇门鬼谷1,https://wolongzywcdn3.com:65/uz5giSYl/index.m3u8
+奇门鬼谷2,https://wolongzywcdn3.com:65/HSRgncWG/index.m3u8
+奇门鬼谷3,https://wolongzywcdn3.com:65/ckKBTJVd/index.m3u8
+奇门鬼谷4,https://wolongzywcdn3.com:65/ZYiRVFNb/index.m3u8
+奇门鬼谷5,https://wolongzywcdn3.com:65/qrZUPciN/index.m3u8
+奇门鬼谷6,https://wolongzywcdn3.com:65/aketpFg9/index.m3u8
+奇门鬼谷7,https://wolongzywcdn3.com:65/6Fafd9cM/index.m3u8
+奇门鬼谷8,https://wolongzywcdn3.com:65/3Sj5OoYG/index.m3u8
+奇门鬼谷9,https://wolongzywcdn3.com:65/BL3qZ28T/index.m3u8
+奇门鬼谷10,https://wolongzywcdn3.com:65/v6Afmn5Y/index.m3u8
+奇门鬼谷11,https://wolongzywcdn3.com:65/f7VSO4Ew/index.m3u8
+奇门鬼谷12,https://wolongzywcdn3.com:65/tbULKSRM/index.m3u8
+奇门鬼谷13,https://wolongzywcdn3.com:65/v6cVNfr3/index.m3u8
+奇门鬼谷14,https://wolongzywcdn3.com:65/NxihpcyA/index.m3u8
+奇门鬼谷15,https://wolongzywcdn3.com:65/SBb0nX1r/index.m3u8
+奇门鬼谷16,https://wolongzywcdn3.com:65/KT3CoAS1/index.m3u8
+奇门鬼谷17,https://wolongzywcdn3.com:65/My1cxvJf/index.m3u8
+奇门鬼谷18,https://wolongzywcdn3.com:65/KkA8JaYm/index.m3u8
+奇门鬼谷19,https://wolongzywcdn3.com:65/Tal2NDSI/index.m3u8
+奇门鬼谷20,https://wolongzywcdn3.com:65/8ozlGTEn/index.m3u8
 
 
 林正英电影,#genre#
@@ -1977,6 +1997,8 @@ DJ热歌,https://vdse.bdstatic.com//8258cbe0dfd6738613fe9efd33a7a83f.mp4
 林正英 44,https://50069.njc.svp.tencent-cloud.com/0bf2zyaayaaapaad3ssq2fqfbtwdbthaadaa.f10002.mp4
 林正英 45,https://50069.njc.svp.tencent-cloud.com/0bf22uaawaaakiacgmsq5jqfbvodbpkqacya.f10002.mp4
 林正英 46,https://50069.njc.svp.tencent-cloud.com/0bf2gqaa4aaal4acmisq2zqfangdby2aadqa.f10002.mp4
+
+
 
 tiktok_1115,#genre#
 81,https://www.tgbak.com/%E6%8A%96%E9%9F%B3%E5%B0%8F%E5%A7%90%E5%A7%90/8768.mp4
