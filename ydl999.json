@@ -674,8 +674,7 @@ AMC,P2p://ns1.hellotvvod.com:9906/1b46d7a899534c1cba535dafa3304ac9
 靖洋戏剧台,P2p://ns1.hellotvvod.com:9906/8b0694e1e1dc4978a40e19656bebfaad
 EYE戏剧,P2p://ns1.hellotvvod.com:9906/4b18a90cff9c4547960e4b984f550a85
 爱尔达影剧台,P2p://ns1.hellotvvod.com:9906/48a3d04c408e4858adf41bdd808eb688
-Hub娱家,#N/A
-亚洲剧台,#N/A
+
     _6100,#N/A
 彩虹e台,P2p://ns1.hellotvvod.com:9906/289430628ca24195ba1891da28ab7387
 彩虹电影台,P2p://ns1.hellotvvod.com:9906/567e485e19cb433ba2e42e72c6a225be
@@ -699,13 +698,14 @@ HAPPY,P2p://ns1.hellotvvod.com:9906/9f5e5c5c869842698e7ea7296ccac87d
 
 
 
+N/N list:,,#genre#
+python Reponse,
 auto cannry:jgfx,
 project-out:ok,
 11.15.03:48,
 total:963
 success:788
 no name:52,
-N/N list:,
 八度空间,P2p://ns1.hellotvvod.com:9906/0b0536d9366f4134b070209e8e3af5d9
 Astro AEC(备),P2p://ns1.hellotvvod.com:9906/0e7ac8e1804e425f927d90a62a37eb1b
 Astro欢喜台,P2p://ns1.hellotvvod.com:9906/d5f06fd20dd2423a9c6ac3fbb96207b5
@@ -717,7 +717,6 @@ Astro欢喜台,P2p://ns1.hellotvvod.com:9906/d5f06fd20dd2423a9c6ac3fbb96207b5
 SCTV,P2p://ns1.hellotvvod.com:9906/e0d050c0416c471d99d1ea12acea1ba4
 ONE,P2p://ns1.hellotvvod.com:9906/b91dbc5c30004c6087208061fdc4ce77
 Boomerang,P2p://ns1.hellotvvod.com:9906/9605b0f44f30435685e831d3a590734e
-
 Nick Jr.,P2p://ns1.hellotvvod.com:9906/f8592630f0274507bfbfd52b5868d9cc
 尼克儿童频道,P2p://ns1.hellotvvod.com:9906/921104b9016340acb34f1d132f39f868
 尼克儿童频道,P2p://ns1.hellotvvod.com:9906/921104b9016340acb34f1d132f39f868
@@ -731,9 +730,9 @@ Nick Jr.,P2p://ns1.hellotvvod.com:9906/f8592630f0274507bfbfd52b5868d9cc
 东森购物1台,P2p://ns1.hellotvvod.com:9906/3c7278c3c1204a8089523bbd14ab5dd7
 东森购物2台,P2p://ns1.hellotvvod.com:9906/de7f137938934eeea2009897c2fea992
 Taiwan+,P2p://ns1.hellotvvod.com:9906/a9f64a5bf8cc4f73b512de8ba66f8195
-新时代1(西部),P2p://ns1.hellotvvod.com:9906/6180a4b22d704c1ea64a543a6f908710
+新时代1,P2p://ns1.hellotvvod.com:9906/6180a4b22d704c1ea64a543a6f908710
 新时代2,P2p://ns1.hellotvvod.com:9906/b182dd444701477c8dab89e2e0802876
-新时代1(东部),P2p://ns1.hellotvvod.com:9906/429a5af2f9f245faa6b2c8719321bc97
+新时代1,P2p://ns1.hellotvvod.com:9906/429a5af2f9f245faa6b2c8719321bc97
 城市电视,P2p://ns1.hellotvvod.com:9906/31a75b5da7e44e0788d80ee781dbca76
 镜新闻,P2p://ns1.hellotvvod.com:9906/670fabe6222e4c7cb2191cb3eef99515
 纬来日本(备),P2p://ns1.hellotvvod.com:9906/e57ef11fb2864401b68e6bed3eddf369
@@ -753,13 +752,13 @@ HKC体育台,P2p://ns1.hellotvvod.com:9906/67d312dbf2d14947a6ac48420e5b0f24
 SPOTV,P2p://ns1.hellotvvod.com:9906/1e56a84fa97147278d9a82269c953fbc
 ROCK Entertainment,P2p://ns1.hellotvvod.com:9906/00eb9a3406e94277ad1da7983f11a34d
 ROCK Extreme,P2p://ns1.hellotvvod.com:9906/d842dc929de1423a9b666640fbf894e1
-滚动力rollor,P2p://ns1.hellotvvod.com:9906/1aebdc79dcd5467a817ed511146cfbff
+滚动力,P2p://ns1.hellotvvod.com:9906/1aebdc79dcd5467a817ed511146cfbff
 Horse Racing 89,P2p://ns1.hellotvvod.com:9906/423532b4666245559f6e4ef60908ebcc
 Horse Racing 88,P2p://ns1.hellotvvod.com:9906/a36ba2865c264bdeae27710b72817a32
 探索频道,P2p://ns1.hellotvvod.com:9906/54b4af0322324238a829af33c9eff4eb
 TLC旅游生活,P2p://ns1.hellotvvod.com:9906/36da263a8e844af0911c36820f755b10
 Travel Channel,P2p://ns1.hellotvvod.com:9906/809d9ca47c8b4d4996bdf1efc998c718
-Love Nature by 饺子,P2p://ns1.hellotvvod.com:9906/ff333369209e40e79d909c01233c32ee
+Love Nature,P2p://ns1.hellotvvod.com:9906/ff333369209e40e79d909c01233c32ee
 
 ONLY FANS_12500,#genre#
 HongKondDolls_1,https://www.tgbak.com/HongkongDoll%E6%94%B6%E9%9B%86/1/HongKondDoll%20OnlyFans.mp4
