@@ -1270,7 +1270,7 @@ tiktok_1115,#genre#
 49,https://www.tgbak.com/%E6%8A%96%E9%9F%B3%E5%B0%8F%E5%A7%90%E5%A7%90/2400.mp4
 50,https://www.tgbak.com/%E6%8A%96%E9%9F%B3%E5%B0%8F%E5%A7%90%E5%A7%90/11882.mp4
 
-港三_5566,#genre#
+港三_1115,#genre#
 1,https://vip2.fhbf9.com/20210804/LA6xZi6C/index.m3u8
 2,https://vip2.fhbf9.com/20210804/u7OESSzE/index.m3u8
 3,https://vip2.fhbf9.com/20210804/Mgg4sPQ6/index.m3u8
