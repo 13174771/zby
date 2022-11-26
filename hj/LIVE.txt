@@ -1,14 +1,22 @@
-{"spider":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1",
+{"spider":"https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/zb1127.jar",
 "wallpaper":"http://leevi.ct8.pl/bg.php",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMjg4My90dmxpdmUudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5Lm5ldC9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamlnZWRvcy96YnkvbWFpbi9oai/nu7zlkIjnm7Tmkq0udHh0"]}]}],
 "sites":[
 
-
+{
+      "key": "zhibo0",
+      "name": "【非凡工具箱】",
+      "type": 4,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+},
 {
       "key": "zhibo1",
       "name": "⚽️世界杯1 ",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=http://52bsj.vip:98/1316",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/世界杯.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -17,7 +25,7 @@
       "key": "zhibo2",
       "name": "️⚽️世界杯2",
       "type": 4,
-      "api": "http://120.53.102.254/live2?url=http://52bsj.vip:98/sjb8k ",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/世界杯直播源.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -25,7 +33,7 @@
   {    "key": "zhibo3",
       "name": "⚽️世界杯3",
       "type": 4,
-      "api": "http://120.53.102.254/live2?url=http://52bsj.vip:81/api/v3/file/get/64511/sjb.txt?sign=KcE_IABdApik0FbNxT4I34JkDMqJCU6r1ZXIKIt7P_I%3D%3A0",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/世界杯+mv.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -35,7 +43,7 @@
       "key": "zhibo4",
       "name": "📡吉祥直播",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=http://120.53.102.254/live/jx.txt",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/吉祥直播.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -45,7 +53,7 @@
       "key": "zhibo5",
       "name": "📡潇潇洒洒",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=http://52bsj.vip:81/api/v3/file/get/64441/xs.txt?sign=bjv1tyN1w8uBi6QOSXVxDa3wR_81lpYTfeJM1J_OvIs%3D%3A0",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/潇洒直播.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -54,7 +62,7 @@
       "key": "zhibo6",
       "name": "📡野火直播",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=http://52bsj.vip:98/yhzb",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/野火直播.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -63,7 +71,7 @@
       "key": "zhibo7",
       "name": "📡月光直播",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=http://52bsj.vip:81/api/v3/file/get/64791/ygyg.txt?sign=J6EfYzx0wfDAPr934Eyhp6vlT_xAVBu-qoLCfl_6_JA%3D%3A0",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/月光直播.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -72,7 +80,7 @@
       "key": "zhibo8",
       "name": "📡蚂蚁直播",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=https://download.kstore.space/download/2883/1114.txt",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/蚂蚁直播.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -81,7 +89,7 @@
       "key": "zhibo9",
       "name": "📡星辰直播",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=http://52bsj.vip:98/xczb",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/星直播.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -90,7 +98,7 @@
       "key": "zhibo10",
       "name": "📡大海TV",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=http://shuyuan.miaogongzi.net/shuyuan/1669318093.txt",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/大海直播.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -99,7 +107,7 @@
       "key": "zhibo11",
       "name": "📡中华直播",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=http://52bsj.vip:98/zhzb",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/ZB源.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -108,7 +116,7 @@
    {   "key": "zhibo12",
       "name": " 💎4K-1 ",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=http://52bsj.vip:98/1315",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/4K测试.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -119,7 +127,7 @@
       "key": "zhibo13",
       "name": " 💎4K-2 ",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=http://52bsj.vip:98/1317",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/tvlive.txt,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -129,7 +137,7 @@
       "key": "zhibo14",
       "name": " 🎵 万首MV ",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=http://52bsj.vip:98/o5",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/四万MV.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -144,7 +152,7 @@
             "searchable" : 0,
             "quickSearch" : 0,
             "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/py_bilibili.py"
+            "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/py_bilibili.py"
         },
             {
             "key" : "py_huya",
@@ -154,7 +162,7 @@
             "searchable" : 0,
             "quickSearch" : 0,
             "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/py_huya.py"
+            "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/py_huya.py"
         },
             {
             "key" : "py_douyu",
@@ -164,7 +172,7 @@
             "searchable" : 0,
             "quickSearch" : 0,
             "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/py_douyu.py"
+            "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/py_douyu.py"
         },
     {
       "key": "csp_Yj1211",
