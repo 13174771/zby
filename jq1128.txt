@@ -1019,7 +1019,7 @@ CHC家庭影院,http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
 初吻1,https://hxf1025.gzc.svp.tencent-cloud.com/0bc3syaamaaaoaaeg5a7tzrvbfwda2laabqa.f10002.mp4?
 初吻2,https://hxf1025.gzc.svp.tencent-cloud.com/0bc3nyaamaaa4aaeuhi7sfrva3wdazxaabqa.f10002.mp4?
 的士飙花,https://hxf1025.gzc.svp.tencent-cloud.com/0bc3eaaamaaajaadekq7tjrvaigdayqaabqa.f10002.mp4?
-公众号,https://cache.tkys.tv/m3u8/314dc21da922ea8780f81d6c82b36295.m3u8
+公.众号:,https://cache.tkys.tv/m3u8/314dc21da922ea8780f81d6c82b36295.m3u8
 放学回家看电.视,https://hxf115.gzc.svp.tencent-cloud.com/0bc3duaacaaaaiahskvve5rfahodaeoqaaia.f10002.mp4?
 最可爱的人,https://pps.sd-play.com/20211118/hxWztygq/index.m3u8
 忠烈杨家将,https://pps.sd-play.com/20220113/tbba6X5b/index.m3u8
@@ -1888,7 +1888,7 @@ Tv1,Http://51.79.82.208:16001
 Tv2,Http://51.79.82.208:16002
 Tv3,Http://51.79.82.208:16003
 Tv9,Http://51.79.82.208:16006
-
+关注公众号.放学.回家看.电视Http://51.79.82.208:16450
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 
 Japan,#genre#
