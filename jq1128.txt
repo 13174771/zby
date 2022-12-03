@@ -876,7 +876,7 @@ Zerouno TV,http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist
 
 
 
-世界杯,#genre#
+FIFA,#genre#
 CCTV1,http://39.134.115.221:8080/PLTV/88888910/224/3221225630/index.m3u8$华南
 CCTV1,http://39.134.115.221:8080/PLTV/88888910/224/3221225642/index.m3u8$华南
 CCTV1,http://39.134.115.221:8080/PLTV/88888910/224/3221225762/index.m3u8$华南
@@ -899,7 +899,15 @@ RED BULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.
 DUBAI SPORTS,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 Abu Dhabi Sports ,http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
+NBA1,https://cuiomrewuiomreat198.s3.amazonaws.com/redzone_720p.m3u8
+NBA2,https://cuiomrewuiomreat198.s3.amazonaws.com/dolphins2_720p.m3u8
+NBA3,https://cuiomrewuiomreat198.s3.amazonaws.com/titans2_720p.m3u8
+NBA4,https://cuiomrewuiomreat198.s3.amazonaws.com/redzone2_720p.m3u8
+NBA5,https://cuiomrewuiomreat198.s3.amazonaws.com/redzone_720p.m3u8
+NBA6,https://cuiomrewuiomreat198.s3.amazonaws.com/bears2_720p.m3u8
+NBA7,https://cuiomrewuiomreat198.s3.amazonaws.com/buccs2_720p.m3u8
+NBA8,https://cuiomrewuiomreat198.s3.amazonaws.com/titans_720p.m3u8
+NBA9,https://cuiomrewuiomreat198.s3.amazonaws.com/buccs_720p.m3u8
 
 
 
