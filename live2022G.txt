@@ -320,11 +320,11 @@ TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 凤凰卫视,http://111.59.189.40:85//tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://111.59.189.40:85//tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰影视,http://111.59.189.40:85//tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-
 凤凰卫视,http://50.7.220.74:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
-
 凤凰影视,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-
+TVB明珠,http://113.117.74.15:808/hls/26/index.m3u8
+TVB翡翠,http://113.117.74.15:808/hls/67/index.m3u8
+TVB星河,http://113.117.74.15:808/hls/137/index.m3u8
 无线新闻,http://50.7.220.74:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
 无线财经,http://50.7.220.74:8278/j5_twn/playlist.m3u8?tid=m3b7232941813&ct=18336&tsum=2652e4efd153feaf5e425047082469ea
 
@@ -346,151 +346,215 @@ RHK32,http://120.132.122.244:59845/hls/90/index.m3u8
 RHK32,http://50.7.220.74:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
 RHK33,http://120.132.122.244:59845/hls/91/index.m3u8
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8 
+ChannelV,http://113.117.74.15:808/hls/88/index.m3u8
+星空卫视,http://113.117.74.15:808/hls/87/index.m3u8
 粵港澳大灣區之聲,https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8
 香港电台第四台,https://bbx.xmgspace.me/radio/rthk4/i/radio4_1@355867/master.m3u8
 香港之聲,https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8
 香港普通话台,https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
 
 湾闻_1203,#genre#
-中天新闻台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv009
+中天新闻,http://youguan.gq/youtube.php?id=_QbRXRnHMVY
+台视新闻,http://youguan.gq/youtube.php?id=xL0ch83RAK8
+中视新闻,http://youguan.gq/youtube.php?id=TCnaIE_SAtM
+东森新闻,http://youguan.gq/youtube.php?id=R2iMq5LKXco
+寰宇新闻,http://youguan.gq/youtube.php?id=B7Zp3d6xXWw
+镜新闻,http://youguan.gq/youtube.php?id=5n0y6b0Q25o
+台视新闻,http://youguan.gq/live.php?id=tsxw
+中视新闻,http://youguan.gq/live.php?id=zsxw
+寰宇新闻,http://youguan.gq/live.php?id=byxw
+镜新闻,http://youguan.gq/live.php?id=jxw
+三立 iNEWS,http://youguan.gq/youtube.php?id=CKjSm5ZeehE
+三立 iNEWS,http://youguan.gq/live.php?id=slin
+三立海外,http://youguan.gq/youtube.php?id=FoBfXvlOR6I
+三立海外,http://youguan.gq/live.php?id=slhw
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+亚太台,http://youguan.gq/live.php?id=yty
+TVBS,http://youguan.gq/live.php?id=tvbs
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+华视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+华视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 中视新闻,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv074
-中视,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv040
-三立财经新闻,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live089
-民视新闻台,http://185.189.32.144:10830/channel.m3u8?fid=litv-ftv13
-东森新闻台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live114
-东森财经新闻台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live019
-TVBS新闻,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live072
-寰宇新闻台,http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn14
-镜电视新闻台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv075
 华视新闻,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv052
-音乐,#genre#
-CLASSICA 古典乐,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv059
-MTV Live音乐频道,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live025
-Mezzo Live,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv083
-
+民视新闻台,http://185.189.32.144:10830/channel.m3u8?fid=litv-ftv13
+镜电视新闻台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv075
+三立财经新闻iNEWS,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live089
+TVBS新闻,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live072
+中天新闻台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv009
+寰宇新闻台,http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn14
+东森财经新闻台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live019
+东森新闻台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live114
+中视,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv040
+华视,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv041
+民视,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv002
 
 
 
 影剧,#genre#
-龙华日韩台,http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn11
-龙华戏剧台,http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn18
-靖洋戏剧台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv045
-靖天戏剧台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv058
+民视戏剧馆,http://youguan.gq/youtube.php?id=298QROP4xe0
+民视戏剧馆2,http://youguan.gq/youtube.php?id=bn7glmBPmIQ
+民视戏剧馆3,http://youguan.gq/youtube.php?id=1kzVPwTeKds
+民视戏剧馆1,http://youguan.gq/live.php?id=msxjgy
+民视戏剧馆2,http://youguan.gq/live.php?id=msxjgr
+民视戏剧馆3,http://youguan.gq/live.php?id=msxjgs
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
+民视影剧台,http://185.189.32.144:10830/channel.m3u8?fid=litv-ftv09
+影迷数位纪实台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live023
+采昌影剧台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv049
+靖天电影台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv061
+龙华电影台,http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn03
+影迷数位电影台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv011
+amc最爱电影,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv017
+CATCHPLAY电影台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv076
+My Cinema Europe,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live157
+经典电影台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live021
+电影原声台CMusic,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live031
+CinemaWorld,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live069
+CATCHPLAY Beyond,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live155
 公视戏剧,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv042
+龙华戏剧台,http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn18
+靖天戏剧台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv058
+靖洋戏剧台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv045
 金光布袋戏,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live144
 华语戏剧台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live005
-
-综艺,#genre#
-中视菁采台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv064
-民视综艺台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv004
-TVBS欢乐台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv068
-八大综艺台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv039
-八大精彩台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv034
-靖天欢乐台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv054
-爱尔达娱乐台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv070
-韩国娱乐台 KMTV,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv016
-LiveABC,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live030
-Lifetime,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live029
-猪哥亮歌厅秀,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv006
-
+i-Fun动漫台,http://185.189.32.144:10830/channel.m3u8?fid=litv-ftv15
+精选动漫台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live024
 
 
 资讯_1203,#genre#
-生活英语台,http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn20
-靖天国际台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv063
 TVBS,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv073
-Rollor,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live012
-华视,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv041
-靖天日本台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv047
-靖天资讯台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv065
-靖天综合台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv046
-民视,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv002
+ABC News,http://youguan.gq/youtube.php?id=w_Ma8oQLmSM
+Bloomberg Global Financial News,http://youguan.gq/youtube.php?id=dp8PhLsUcFE
+ABC News-AU,http://youguan.gq/youtube.php?id=vOTiJkg1voo
+SKY NEWS,http://youguan.gq/youtube.php?id=9Auq9mYxFEE
+FRANCE 24,http://youguan.gq/youtube.php?id=h3MuIUNCCzI
+FRANCE 24,http://youguan.gq/live.php?id=france
+CNA,http://youguan.gq/live.php?id=cna
+KBS Kr,http://youguan.gq/youtube.php?id=HnfpTMtfFk8
+CNA,http://youguan.gq/youtube.php?id=XWq5kBlakcQ
+亚太台,http://youguan.gq/youtube.php?id=WIhgU_mc05A
+CCTV-4,http://youguan.gq/youtube.php?id=QTz6avPD4Ns
+kbs TV,http://youguan.gq/youtube.php?id=0GN8t2u3flc
+TBS24hours,http://youguan.gq/live.php?id=TBS24hours
+KBS Kr,http://youguan.gq/live.php?id=kbskr
+半岛国际新闻台,http://185.189.32.144:10830/channel.m3u8?fid=litv-ftv10
+CNN头条新闻台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live203
+CNN国际新闻台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live204
+VOA美国之音,http://185.189.32.144:10830/channel.m3u8?fid=litv-ftv03
+CNBC Asia 财经台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live130
+DW德国之声,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live071
+ARIRANG阿里郎频道,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv079
+
+未分类,#genre#
+NASA TV,http://youguan.gq/youtube.php?id=21X5lGlDOfg
+NASA TV2,http://youguan.gq/youtube.php?id=nA9UZF-SZoQ
+momo购物壹台,http://youguan.gq/youtube.php?id=_pZQ1Lk0xMA
+东森购物台1,http://youguan.gq/youtube.php?id=ViJ3XiN6Q3M
+东森购物台3,http://youguan.gq/youtube.php?id=Z50JFuNgvB0
+美好购物1台,http://youguan.gq/youtube.php?id=yuhgIlXwPh8
+美好购物2台,http://youguan.gq/youtube.php?id=LEOat38Iuao
+国会频道,http://youguan.gq/youtube.php?id=4HysYHJ6GkY
+国会频道２,http://youguan.gq/youtube.php?id=RAP4h3q6_Sg
+阿里郎电视台,http://youguan.gq/youtube.php?id=APlvA2wtdKk
+大爱二台（国际）,http://youguan.gq/youtube.php?id=DTNkEm6jaqQ
+大爱海外频道,http://youguan.gq/youtube.php?id=MIqUplvSRWA
+阿里山美景直播,http://youguan.gq/youtube.php?id=zDt8FBPozZQ
+YTN SCIENCE,http://youguan.gq/youtube.php?id=xfFa_kcPnCY
+YTN KOREAN,http://youguan.gq/youtube.php?id=vEO6wO0QsX8
+购物壹台,http://youguan.gq/live.php?id=gwyt
+购物贰台,http://youguan.gq/live.php?id=gwert
+大爱二台（国际）,http://youguan.gq/live.php?id=dar
+大爱海外频道,http://youguan.gq/live.php?id=dahw
+阿里山美景直播,http://youguan.gq/live.php?id=alsmj
+华语电视,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+momo购物贰台,http://youguan.gq/youtube.php?id=xbNWkUyxQGM
+国会频道1,http://youguan.gq/live.php?id=ghpdy
+国会频道2,http://youguan.gq/live.php?id=ghpdr
+猪哥亮歌厅秀,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv006
+中视经典台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv080
+中视菁采台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv064
+民视综艺台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv004
 民视第一台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv003
 民视台湾台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv001
-三立综合台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live207
-中视经典台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv080
-中天全民最大党,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live076
-中天综合台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live033
-国会频道2,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv085
-国会频道1,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv084
-客家电视台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv043
-人间卫视,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live008
-好消息2台,http://185.189.32.144:10830/channel.m3u8?fid=litv-ftv17
-好消息,http://185.189.32.144:10830/channel.m3u8?fid=litv-ftv16
-大爱二台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live106
-大爱电视,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live007
-
-亲子,#genre#
-靖天育乐台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv062
-靖洋卡通Nice Bingo,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv057
-靖天卡通台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv044
-达文西频道,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv018
-精选动漫台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live024
-经典卡通台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live022
-尼克儿童频道,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live105
-Nick Jr. ,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live032
-MOMO亲子台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live107
-i-Fun动漫台,http://185.189.32.144:10830/channel.m3u8?fid=litv-ftv15
-CN卡通,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live205
-
-
-影迷_1203,#genre#
-影迷数位纪实台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live023
-影迷数位电影台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv011
-电影原声台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live031
-amc最爱电影,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv017
-时尚运动X,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv014
-经典电影台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live021
-My Cinema Europe ,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live157
-CinemaWorld,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live069
-CATCHPLAY电影台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv076
-CATCHPLAY Beyond,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live155
-HITS频道,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live620
-民视影剧台,http://185.189.32.144:10830/channel.m3u8?fid=litv-ftv09
-龙华电影台,http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn03
-靖天映画,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv055
-靖天电影台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv061
-采昌影剧台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv049
-
-旅纪,#genre#
-纪实频道,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv013
-亚洲旅游台,http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn17
-幸福居家台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live206
-车迷TV,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live201
-TV5MONDE,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live122
-Pet Club,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live110
-History,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live026
-CI,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live027
-Love Nature,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live208
-TechStorm,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live109
-Smithsonian Channel,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live088
-ROCK Ex,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live138
-LUXE TV,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live121
-美食旅游,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live123
 民视旅游台,http://185.189.32.144:10830/channel.m3u8?fid=litv-ftv07
+三立综合台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live207
+TVBS欢乐台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv068
+中天综合台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live033
+中天全民最大党,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live076
+中天美食旅游,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live123
 东森购物一台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live047
 东森购物二台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live046
-
-体育,#genre#
-ELT生活旅游台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live120
-智林体育台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv101
+客家电视台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv043
+八大综艺台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv039
+爱尔达娱乐台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv070
+靖天综合台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv046
+ROCK Extreme,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live138
+HITS频道,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live620
+龙华日韩台,http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn11
+八大精彩台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv034
+视纳华仁纪实频道,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv013
+靖天映画,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv055
+靖天日本台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv047
+靖天育乐台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv062
+KLT-靖天国际台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv063
+Nice TV 靖天欢乐台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv054
+靖天资讯台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv065
+韩国娱乐台 KMTV,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv016
+Lifetime 娱乐频道,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live029
+TRACE Urban,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv082
+MTV Live HD 音乐频道,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live025
+Mezzo Live HD,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv083
+LiveABC互动英语频道,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live030
+达文西频道,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv018
+ELTV生活英语台,http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn20
+Nick Jr. 儿童频道,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live032
+尼克儿童频道,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live105
+靖天卡通台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv044
+靖洋卡通Nice Bingo,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv057
+MOMO亲子台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live107
+CN卡通,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live205
+经典卡通台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live022
+SBN全球财经台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live060
+博斯高球台,http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn05
 博斯运动一台,http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn07
 博斯无限台,http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn10
 博斯网球台,http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn09
-博斯高球台,http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn05
-TRACE Urban,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv082
-TRACE Sport,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv077
-GINX Esports,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv053
+TRACE Sport Stars,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv077
+智林体育台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv101
+时尚运动X,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv014
+车迷TV,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live201
+GINX Esports TV,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv053
+Pet Club TV,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live110
+滚动力rollor,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live012
+亚洲旅游台,http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn17
+幸福空间居家台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live206
+Love Nature,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live208
+History 历史频道,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live026
+Smithsonian Channel,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live088
+爱尔达生活旅游台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live120
+LUXE TV Channel,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live121
+TV5MONDE STYLE HD 生活时尚,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live122
+CI 罪案侦查频道,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live027
+国会频道1,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv084
+国会频道2,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv085
+新唐人亚太台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live050
+TechStorm,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live109
+大爱电视,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live007
+好消息2台,http://185.189.32.144:10830/channel.m3u8?fid=litv-ftv17
+好消息,http://185.189.32.144:10830/channel.m3u8?fid=litv-ftv16
+大爱二台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live106
+人间卫视,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live008
 
-财经,#genre#
-SBN财经,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live060
-半岛新闻,http://185.189.32.144:10830/channel.m3u8?fid=litv-ftv10
-VOA,http://185.189.32.144:10830/channel.m3u8?fid=litv-ftv03
-DW,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live071
-CNN头条,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live203
-CNN国际,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live204
-ARIRANG,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv079
-CNBC Asia,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live130
+
 
 湾湾_1203,#genre#
 中天综合,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
