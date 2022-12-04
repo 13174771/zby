@@ -354,23 +354,16 @@ ChannelV,http://113.117.74.15:808/hls/88/index.m3u8
 香港普通话台,https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
 
 湾闻_1203,#genre#
-中天新闻,http://youguan.gq/youtube.php?id=_QbRXRnHMVY
-台视新闻,http://youguan.gq/youtube.php?id=xL0ch83RAK8
-中视新闻,http://youguan.gq/youtube.php?id=TCnaIE_SAtM
-东森新闻,http://youguan.gq/youtube.php?id=R2iMq5LKXco
-寰宇新闻,http://youguan.gq/youtube.php?id=B7Zp3d6xXWw
-镜新闻,http://youguan.gq/youtube.php?id=5n0y6b0Q25o
-台视新闻,http://youguan.gq/live.php?id=tsxw
-中视新闻,http://youguan.gq/live.php?id=zsxw
-寰宇新闻,http://youguan.gq/live.php?id=byxw
-镜新闻,http://youguan.gq/live.php?id=jxw
-三立 iNEWS,http://youguan.gq/youtube.php?id=CKjSm5ZeehE
-三立 iNEWS,http://youguan.gq/live.php?id=slin
-三立海外,http://youguan.gq/youtube.php?id=FoBfXvlOR6I
-三立海外,http://youguan.gq/live.php?id=slhw
+中天新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=24
+中视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=25
+台视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=26
+镜新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=38
+寰宇新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=27
+TVBS新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=31
+TVBS,http://140.238.155.232:9000/jmsytb.m3u8?c=29
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-亚太台,http://youguan.gq/live.php?id=yty
-TVBS,http://youguan.gq/live.php?id=tvbs
+LIVE三立,http://140.238.155.232:9000/jmsytb.m3u8?c=23
+三立INEWS,http://140.238.155.232:9000/jmsytb.m3u8?c=22
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
