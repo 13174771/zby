@@ -578,7 +578,7 @@ NewTV金牌综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212257
 
 
 
-🐯动画片,#genre#
+动画,#genre#
 嘉佳卡通,http://113.117.74.17:808/hls/126/index.m3u8
 哈哈炫动,http://113.117.74.17:808/hls/127/index.m3u8
 金鹰卡通,http://113.117.74.17:808/hls/129/index.m3u8
@@ -3655,7 +3655,7 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
 
-测试1_6100,#genre#
+ _6100,#genre#
 HBO,http://line.premiumpowers.net:80/Manuel/1234567/941648
 HBO家庭,http://line.premiumpowers.net:80/Manuel/1234567/941646
 HBO原创,http://line.premiumpowers.net:80/Manuel/1234567/941645
@@ -3903,7 +3903,7 @@ HITS,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 GinX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 华视新闻资讯,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 
-测试2_6100,#genre#
+  _6100,#genre#
 MEDIACORP U,http://line.premiumpowers.net:80/Manuel/1234567/941617
 衛視電影,http://line.premiumpowers.net:80/Manuel/1234567/941625
 ROCK ENTERTAINMENT,http://line.premiumpowers.net:80/Manuel/1234567/941643
@@ -4171,7 +4171,7 @@ HBO强档,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56
 高清电影台,https://pull-l3-cny.douyincdn.com/live/8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
 龙祥电影台,https://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
 天映电影台,https://pull-l3-cny.douyincdn.com/live/4480903e93e7bf6ddde637e903c423a0.m3u8
-测试3_6100,#genre#
+   _6100,#genre#
 HITS频道,http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
 民视新闻台,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
 台湾戏剧,http://www.336699.live:1935/blocksix/4gtv-live005.stream/chunklist.m3u8
