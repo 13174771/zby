@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1  tvg-id="CCTV1" group-title="央视·移动" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV-1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 #EXTINF:-1  tvg-id="CCTV1" group-title="央视·移动" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV-1
